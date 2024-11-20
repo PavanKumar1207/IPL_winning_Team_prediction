@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # Load your trained model
 try:
-    model = pickle.load(open("ipl_pred_model_2.pkl", "rb"))
+    model = pickle.load(open("ipl_pred_model.pkl", "rb"))
 except FileNotFoundError:
     model = None  # Handle missing model during testing
     print("Warning: Model file not found!")
@@ -111,4 +111,4 @@ def predict():
         return "An error occurred. Check your input and try again.",500
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False,host='0.0.0.0')
