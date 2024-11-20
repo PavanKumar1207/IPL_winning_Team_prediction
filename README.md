@@ -3,13 +3,10 @@
 
 A machine learning-powered web app that predicts IPL match winners based on real-time stats and historical data. Built for cricket enthusiasts, analysts, and tech enthusiasts alike! 🎉
 
-Here is the demo of the IPL prediction model (it will play automatically and loop):
+Here is the demo of the IPL prediction model :
 
-<video width="640" height="360" controls autoplay loop>
-  <source src="https://github.com/user-attachments/assets/cd2a01f3-aa96-474d-934f-d82eed6967d5/raw" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+https://github.com/user-attachments/assets/cd2a01f3-aa96-474d-934f-d82eed6967d5
+  
 
 ## 📋Project Goals
 
