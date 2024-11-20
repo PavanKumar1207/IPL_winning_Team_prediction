@@ -5,7 +5,7 @@ A machine learning-powered web app that predicts IPL match winners based on real
 
 
 ## Table of Contents
-- [📋 Project Goals](#-📋Project-Goals)
+- [📋 Project Goals](#-Project-Goals)
 - [🔍 Features](## 🔍Features)
   - [1. Model Training](#1-model-training)
   - [2. Web Application](#2-web-application)
