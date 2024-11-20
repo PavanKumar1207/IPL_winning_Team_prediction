@@ -3,6 +3,8 @@
 
 A machine learning-powered web app that predicts IPL match winners based on real-time stats and historical data. Built for cricket enthusiasts, analysts, and tech enthusiasts alike! 🎉
 
+[![Demo Video](https://via.placeholder.com/640x360.png)](https://github.com/PavanKumar1207/IPL_winning_Team_prediction/blob/main/ipl_prediction_demo.mp4?raw=true)
+
 ## 📋Project Goals
 
 1. Predict IPL Match Winners: Use historical match data and real-time stats to calculate probabilities.
